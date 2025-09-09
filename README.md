@@ -1,5 +1,7 @@
-Click Speed Challenge
+Assignment 2 - Click Speed Challenge - Peter Czepiel
 ---
+
+Peter Czepiel Deployed Site: https://a2-peterczepiel.onrender.com
 
 A simple clicker game web app where users can test how many times they can click within 10 seconds.
 The game tracks scores, displays a live click counter, and maintains a scoreboard.
@@ -33,12 +35,13 @@ Design / UX Achievements
 ---
 
 User Testing:
-Tested with my roommates and myself using the think-aloud protocol.
 
-Task: Start a game, play for 10 seconds, then delete a score.
+User: Tested with my roommate Timothy Hutzley to see if the website was desirable to other people.
 
-Overall Feedback: Everything worked well, didn't like the initial color scheme because it was too bright.
+Task: Start a game, play for 10 seconds, then delete a score. (this was done a few times)
 
-Problem: My roommate didn’t realize they had to click “Start Game” before clicking the main button.
+Problems: Initially the design was very bright colored and Timothy claimed it was too distracting. He also did not like the colors I had chose initially and wanted them to be changed.
 
-Change Suggested: Change to darker colors and change the color of the click button to something other than red.
+Comments: One comment from Timothy that surprised me was he really liked the initial idea and thought it was fun to test his speed against mine.
+
+Changes made: I had to change the entire color scheme
