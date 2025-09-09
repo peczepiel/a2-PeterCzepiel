@@ -1,18 +1,37 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>CS4241 Assignment 2</title>
+    <title>Click Game High Scores</title>
     <meta charset="utf-8">
-    <script src="js/main.js"></script>
+    <script src="js/main.js" defer></script>
     <link rel="stylesheet" href="css/main.css">
-    
-    <!-- get rid of favicon error -->
-    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
   </head>
   <body>
-    <form>
-      <input type="text" id="yourname" value="your name here">
-      <button>submit</button>
+    <h1>Click Game</h1>
+    
+    <form id="nameForm">
+      <label for="yourname">Enter Your Name:</label>
+      <input type="text" id="yourname" required>
+      <button type="submit">Start Game</button>
     </form>
+
+    <div id="gameArea" class="hidden">
+      <p id="timer">Time left: 10</p>
+      <p id="clickCountDisplay">Clicks: 0</p>
+      <button id="clickButton" class="click-box">CLICK ME!</button>
+    </div>
+
+    <h2>High Scores</h2>
+    <table id="scoreTable">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Score</th>
+          <th>Clicks/sec</th>
+          <th>Delete?</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
   </body>
 </html>

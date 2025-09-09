@@ -1,8 +1,8 @@
 {
-  "name": "",
-  "version": "",
-  "description": "",
-  "author": "",
+  "name": "clicker-game",
+  "version": "1.0.0",
+  "description": "A very simple web app that prompt the user to play a clicker game, then stores and displays their scores.",
+  "author": "Peter Czepiel",
   "scripts": {
     "start": "node server.improved.js"
   },
