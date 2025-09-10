@@ -36,7 +36,8 @@ Design / UX Achievements
 
 User Testing:
 
-User: Tested with my roommate Timothy Hutzley to see if the website was desirable to other people.
+
+User 1: Tested with my roommate Timothy Hutzley to see if the website was desirable to other people.
 
 Task: Start a game, play for 10 seconds, then delete a score. (this was done a few times)
 
@@ -45,3 +46,14 @@ Problems: Initially the design was very bright colored and Timothy claimed it wa
 Comments: One comment from Timothy that surprised me was he really liked the initial idea and thought it was fun to test his speed against mine.
 
 Changes made: I had to change the entire color scheme
+
+
+User 2: Tested with my classmate Shawn Patel to see if the website was working correctly.
+
+Task: Start a game, play for 10 seconds, then delete a score. (also try to beat previous scores)
+
+Problems: Shawn did not like how initially there was no way to track your score until the game was over.
+
+Comments: Shawn really enjoyed the new color scheme and like the challenge of trying to beat mine and Timothy's scores.
+
+Changes made: I added a live counter that shows your current score while the game is still going.
